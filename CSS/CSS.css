@@ -1,5 +1,5 @@
 body {
-	background-color: lightblue;
+	background-color: grey;
 }
 
 h1,h2,h3,h4,h5,h6,p{
@@ -34,9 +34,4 @@ nav a:hover{ /* How it looks when you hover with muose */
 	height:76px;
 }
 
-.container{
-	position:relative;
-	width: 80%;
-	margin: 0px auto 0px auto; /* top right bottom left */
-	border: 3px black solid; /* border-width border-color border-style*/
-}
+
